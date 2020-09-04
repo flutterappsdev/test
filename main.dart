@@ -1,0 +1,4 @@
+void man()
+{
+  runApp(MyApp())
+}
